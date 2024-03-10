@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background: black;
+    width: 100vw;
+    height: 100vh;
+}
+
+img {
+    width: 435px;
+    margin: 75px 0px 61px 36%;
+
+
+
+}
+
+p {
+    color: rgba(255, 255, 255, 1);
+    font-size: 28px;
+    margin-left: 72px;
+    margin-bottom: 6px;
+}
+
+.inpat-1 {
+    background: rgba(255, 255, 255, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    width: 199px;
+    height: 28px;
+    color: aliceblue;
+    padding: 13px, 233px, 30px, 16px;
+    border-radius: 8px;
+    border: 1px;
+    font-size: 20px;
+
+
+}
+
+.inpat-2 {
+    background: rgba(255, 255, 255, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    width: 199px;
+    height: 28px;
+    color: aliceblue;
+    border-radius: 8px;
+    border: 1px;
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+
+button {
+    background: rgba(174, 195, 70, 1);
+    width: 186px;
+    height: 51px;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+    display: block;
+    margin-left: 115px;
+    margin-top: 32px;
+    cursor: pointer;
+    box-shadow: 8px 8px 21px 0px rgba(174, 195, 70, 1);
+
+
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+section {
+    margin-left: 36%;
+}
